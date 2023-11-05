@@ -1,12 +1,12 @@
 {
   "name": "@levihub/child_runner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Child file easy runner.",
   "type": "module",
   "exports": {
     ".": {
-      "require": "./child_runner.cjs",
-      "import": "./child_runner.mjs"
+      "require": "./dist/child_runner.cjs",
+      "import": "./dist/child_runner.mjs"
     }
   },
   "author": "Leviatan1121 (https://levihub.dev)",

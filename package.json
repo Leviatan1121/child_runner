@@ -1,0 +1,25 @@
+{
+  "name": "@levihub/child_runner",
+  "version": "1.0.0",
+  "description": "Child file easy runner.",
+  "type": "module",
+  "exports": {
+    ".": {
+      "require": "./child_runner.cjs",
+      "import": "./child_runner.mjs"
+    }
+  },
+  "author": "Leviatan1121 (https://levihub.dev)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leviatan1121/child_runner.git"
+  },
+  "keywords": [
+    "child"
+  ],
+  "bugs": {
+    "url": "https://github.com/Leviatan1121/child_runner/issues"
+  },
+  "homepage": "https://github.com/Leviatan1121/child_runner#readme"
+}

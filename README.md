@@ -1,6 +1,6 @@
 ## Installation
 ```bash
-npm install @levihub/child_runner
+npm i @levihub/child_runner
 ```
 
 ## Declaration
